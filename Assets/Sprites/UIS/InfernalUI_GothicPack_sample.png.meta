@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 148466536b46396448b3b50e14e930e0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InfernalUI_GothicPack_sample_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 880
+        width: 490
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612b06c331e56744294c37ada269563f
+      internalID: -1494489643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfernalUI_GothicPack_sample_3
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 331
+        width: 415
+        height: 693
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81434212b61e2548b9c3006b5d4da05
+      internalID: -1340865587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfernalUI_GothicPack_sample_7
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 197
+        width: 554
+        height: 827
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f065ad97e68171a43bcc4c2b08957fde
+      internalID: 2007240370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfernalUI_GothicPack_sample_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 754
+        width: 316
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe38ac987ae21b45b2258de9df3c654
+      internalID: -983468337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfernalUI_GothicPack_sample_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 624
+        width: 234
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da38e52cc4c412b41a039a431c62d888
+      internalID: -787550175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfernalUI_GothicPack_sample_28
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 218
+        width: 282
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baeacc9680ca2c4fbc1007c8326ac97
+      internalID: -45120026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfernalUI_GothicPack_sample_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7
+        width: 158
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c455771c2f74649b360f3a41d73272
+      internalID: -2029743493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfernalUI_GothicPack_sample_35
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 19
+        width: 166
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417167104da627e409de4eed6cc55770
+      internalID: 995401670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfernalUI_GothicPack_sample_36
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 19
+        width: 240
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e641f8e7fa2fe0649ab7d4eef1b20a0a
+      internalID: 544474179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfernalUI_GothicPack_sample_39
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 4
+        width: 557
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d92315aa61866d4db548b5fce8ae112
+      internalID: 1469438211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":5.0},"gridSpriteSize":{"x":192.0,"y":204.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      InfernalUI_GothicPack_sample_0: -1494489643
+      InfernalUI_GothicPack_sample_1: 147389246
+      InfernalUI_GothicPack_sample_10: 1078740475
+      InfernalUI_GothicPack_sample_11: -1374474895
+      InfernalUI_GothicPack_sample_12: 242926660
+      InfernalUI_GothicPack_sample_13: 1531979368
+      InfernalUI_GothicPack_sample_14: 1130759260
+      InfernalUI_GothicPack_sample_15: 460727888
+      InfernalUI_GothicPack_sample_16: -1170060351
+      InfernalUI_GothicPack_sample_17: 1045646062
+      InfernalUI_GothicPack_sample_18: 566183255
+      InfernalUI_GothicPack_sample_19: 1537566432
+      InfernalUI_GothicPack_sample_2: 323237131
+      InfernalUI_GothicPack_sample_20: -1119098493
+      InfernalUI_GothicPack_sample_21: -965058685
+      InfernalUI_GothicPack_sample_22: -1060654874
+      InfernalUI_GothicPack_sample_23: 1010954484
+      InfernalUI_GothicPack_sample_24: -1746136220
+      InfernalUI_GothicPack_sample_25: -84536890
+      InfernalUI_GothicPack_sample_26: 16266201
+      InfernalUI_GothicPack_sample_27: -1165723653
+      InfernalUI_GothicPack_sample_28: -45120026
+      InfernalUI_GothicPack_sample_29: 533169202
+      InfernalUI_GothicPack_sample_3: -1340865587
+      InfernalUI_GothicPack_sample_30: 553809734
+      InfernalUI_GothicPack_sample_31: -186306141
+      InfernalUI_GothicPack_sample_32: -2029743493
+      InfernalUI_GothicPack_sample_33: 929830911
+      InfernalUI_GothicPack_sample_34: -1928944427
+      InfernalUI_GothicPack_sample_35: 995401670
+      InfernalUI_GothicPack_sample_36: 544474179
+      InfernalUI_GothicPack_sample_37: 150963905
+      InfernalUI_GothicPack_sample_38: 1812960924
+      InfernalUI_GothicPack_sample_39: 1469438211
+      InfernalUI_GothicPack_sample_4: 1321261193
+      InfernalUI_GothicPack_sample_5: 1352734129
+      InfernalUI_GothicPack_sample_6: 616714119
+      InfernalUI_GothicPack_sample_7: 2007240370
+      InfernalUI_GothicPack_sample_8: -983468337
+      InfernalUI_GothicPack_sample_9: -787550175
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
