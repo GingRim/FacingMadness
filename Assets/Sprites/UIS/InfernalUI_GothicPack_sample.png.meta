@@ -106,7 +106,7 @@ TextureImporter:
         height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 176, y: 36, z: 178, w: 40}
       customData: 
       outline: []
       physicsShape: []
@@ -144,13 +144,13 @@ TextureImporter:
       name: InfernalUI_GothicPack_sample_7
       rect:
         serializedVersion: 2
-        x: 982
-        y: 197
-        width: 554
-        height: 827
+        x: 988
+        y: 209
+        width: 525
+        height: 790
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 212, y: 59, z: 214, w: 118}
       customData: 
       outline: []
       physicsShape: []
@@ -254,13 +254,13 @@ TextureImporter:
       name: InfernalUI_GothicPack_sample_35
       rect:
         serializedVersion: 2
-        x: 549
-        y: 19
-        width: 166
-        height: 179
+        x: 556
+        y: 26
+        width: 153
+        height: 167
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 59, y: 61, z: 56, w: 56}
       customData: 
       outline: []
       physicsShape: []
@@ -276,13 +276,13 @@ TextureImporter:
       name: InfernalUI_GothicPack_sample_36
       rect:
         serializedVersion: 2
-        x: 722
-        y: 19
-        width: 240
-        height: 173
+        x: 728
+        y: 33
+        width: 223
+        height: 149
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 70, y: 28, z: 44, w: 77}
       customData: 
       outline: []
       physicsShape: []
